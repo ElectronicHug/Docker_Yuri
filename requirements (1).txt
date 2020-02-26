@@ -1,0 +1,10 @@
+numpy
+pandas
+git+https://github.com/quiltdata/t4.git#subdirectory=api/python
+flask
+jupyter
+scikit-learn
+keras
+awscli
+requests==2.20.0  # temp
+sagemaker  # temp
